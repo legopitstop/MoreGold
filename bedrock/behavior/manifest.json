@@ -1,0 +1,52 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "pack.description",
+        "name": "pack.name",
+        "uuid": "8878bd80-768e-4b36-acee-5271216c02e7",
+        "version": [
+            1,
+            3,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            19,
+            80
+        ]
+    },
+    "metadata": {
+        "authors": [
+            "legopitstop"
+        ],
+        "license": "https://license.lpsmods.dev",
+        "url": "https://lpsmods.dev"
+    },
+    "modules": [
+        {
+            "description": "pack.description",
+            "type": "data",
+            "uuid": "2afda408-1c21-42c0-8ed6-dba502923004",
+            "version": [
+                1,
+                3,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "ebe601a9-616a-4d6e-9150-2c918c7c96f4",
+            "version": [
+                1,
+                3,
+                0
+            ]
+        },
+        {
+            "description": "Assets Plus RP",
+            "uuid": "c86dd7d9-e84e-456f-a84f-1993e353da4c",
+            "version": [1, 4, 0]
+        }
+    ]
+}

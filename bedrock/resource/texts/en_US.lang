@@ -1,0 +1,17 @@
+﻿pack.name=More Gold RP
+pack.description=More gold foods! §8Developer: §6Legopitstop
+
+item.moregold:golden_banana=Golden Banana §7(#moregold)
+item.moregold:golden_grape=Golden Grape §7(#moregold)
+item.moregold:golden_lemon=Golden Lemon §7(#moregold)
+item.moregold:golden_orange=Golden Orange §7(#moregold)
+item.moregold:golden_strawberry=Golden Strawberry §7(#moregold)
+item.moregold:enchanted_golden_banana=Enchanted Golden Banana §7(#moregold)
+item.moregold:enchanted_golden_grape=Enchanted Golden Grape §7(#moregold)
+item.moregold:enchanted_golden_lemon=Enchanted Golden Lemon §7(#moregold)
+item.moregold:enchanted_golden_orange=Enchanted Golden Orange §7(#moregold)
+item.moregold:enchanted_golden_strawberry=Enchanted Golden Strawberry §7(#moregold)
+item.moregold:golden_fruit_sapling=Golden Fruit Sapling §7(#moregold)
+item.moregold:golden_fruit_seeds=Golden Fruit Seeds §7(#moregold)
+tile.moregold:golden_log.name=Golden Log §7(#moregold)
+tile.moregold:stripped_golden_log.name=Stripped Golden Log §7(#moregold)
